@@ -14746,4 +14746,134 @@ CATEGORIES:Memória
 DTSTAMP:20260322T223559Z
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:conversao-sao-paulo@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+RRULE:FREQ=YEARLY
+SUMMARY:Conversão de São Paulo, Apóstolo
+DESCRIPTION:Festa da conversão de Saulo de Tarso a caminho de Damasco (At 9). Encerra a Semana de Oração pela Unidade dos Cristãos.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sao-marcos-evangelista@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+RRULE:FREQ=YEARLY
+SUMMARY:São Marcos, Evangelista
+DESCRIPTION:Festa de São Marcos, autor do segundo Evangelho, discípulo de São Pedro e padroeiro de Veneza.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sao-filipe-tiago-menor@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+RRULE:FREQ=YEARLY
+SUMMARY:São Filipe e São Tiago Menor, Apóstolos
+DESCRIPTION:Festa dos apóstolos Filipe e Tiago Menor (filho de Alfeu), celebrados juntos por terem suas relíquias trasladadas no mesmo dia para a Basílica dos Santos Apóstolos em Roma.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sao-matias-apostolo@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+RRULE:FREQ=YEARLY
+SUMMARY:São Matias, Apóstolo
+DESCRIPTION:Festa de São Matias\, o apóstolo escolhido por sorteio para substituir Judas Iscariotes (At 1\,15-26).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sao-barnabe-apostolo@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+RRULE:FREQ=YEARLY
+SUMMARY:São Barnabé, Apóstolo
+DESCRIPTION:Memória de São Barnabé\, companheiro de São Paulo nas viagens missionárias e chamado apóstolo no livro dos Atos.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sao-pedro-sao-paulo@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+RRULE:FREQ=YEARLY
+SUMMARY:São Pedro e São Paulo, Apóstolos
+DESCRIPTION:Solenidade dos dois grandes pilares da Igreja\, ambos martirizados em Roma. Dia de preceito.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sao-tome-apostolo@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+RRULE:FREQ=YEARLY
+SUMMARY:São Tomé, Apóstolo
+DESCRIPTION:Festa de São Tomé\, o "incrédulo" que tocou as chagas do Ressuscitado e evangelizou a Índia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sao-tiago-maior@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+RRULE:FREQ=YEARLY
+SUMMARY:São Tiago Maior, Apóstolo
+DESCRIPTION:Festa de Tiago\, filho de Zebedeu\, irmão de João\, primeiro apóstolo mártir. Padroeiro de Santiago de Compostela e da Espanha.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sao-bartolomeu-apostolo@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+RRULE:FREQ=YEARLY
+SUMMARY:São Bartolomeu, Apóstolo
+DESCRIPTION:Festa de São Bartolomeu (identificado com Natanael)\, martirizado por esfolamento na Armênia.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sao-mateus-evangelista@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+RRULE:FREQ=YEARLY
+SUMMARY:São Mateus, Apóstolo e Evangelista
+DESCRIPTION:Festa de Mateus\, o publicano chamado por Jesus à beira do caminho e autor do primeiro Evangelho.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sao-simao-judas-tadeu@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+RRULE:FREQ=YEARLY
+SUMMARY:São Simão e São Judas Tadeu, Apóstolos
+DESCRIPTION:Festa dos apóstolos Simão (o Zelota) e Judas Tadeu\, celebrados juntos por terem evangelizado e sido martirizados juntos\, segundo a tradição.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:santo-andre-apostolo@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+RRULE:FREQ=YEARLY
+SUMMARY:Santo André, Apóstolo
+DESCRIPTION:Festa de Santo André\, irmão de Pedro e o primeiro chamado por Jesus. Martirizado em cruz em forma de X (cruz de Santo André).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sao-joao-evangelista@calendario-catolico
+DTSTAMP:20260503T120000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+RRULE:FREQ=YEARLY
+SUMMARY:São João, Apóstolo e Evangelista
+DESCRIPTION:Festa de João\, o "discípulo amado"\, autor do quarto Evangelho\, das três cartas joaninas e do Apocalipse.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
